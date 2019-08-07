@@ -203,7 +203,7 @@ ORDER BY expression1;
 
 说明：所有电子邮箱都是小写字母。
 
-![结果](C:\Users\lenovo\Desktop\mysql 1-3days\项目一.png)
+![结果](./项目一.png)
 
    ## 项目二
 
@@ -245,7 +245,7 @@ ORDER BY expression1;
 
 +--------------+-------------+--------------+
 
-![结果](C:\Users\lenovo\Desktop\mysql 1-3days\项目二.png)
+![结果](./项目二.png)
 
    
 
